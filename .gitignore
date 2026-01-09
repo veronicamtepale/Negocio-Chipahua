@@ -6,4 +6,6 @@ __pycache__/
 # uploads
 app/static/uploads/products/*
 !app/static/uploads/products/.gitkeep
+# database
+app/db/data/*.db
 
